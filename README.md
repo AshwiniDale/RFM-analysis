@@ -1,0 +1,4 @@
+# RFM-analysis 
+# RECENCY
+# FREQUENCY 
+# MONETARY
